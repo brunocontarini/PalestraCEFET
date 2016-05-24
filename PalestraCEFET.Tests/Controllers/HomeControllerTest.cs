@@ -20,7 +20,7 @@ namespace PalestraCEFET.Tests.Controllers
 
             // Act
             ViewResult result = controller.Index() as ViewResult;
-
+            Assert.AreEqual(1,2, "Falha ao validar!");
             // Assert
             Assert.IsNotNull(result);
         }
