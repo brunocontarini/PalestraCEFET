@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalestraCEFET", "PalestraCEFET\PalestraCEFET.csproj", "{4D5FEB7D-9EEC-4629-ABD2-4887DC7F08E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalestraCEFET.Tests", "PalestraCEFET.Tests\PalestraCEFET.Tests.csproj", "{DF91E658-2EF5-458B-BEEE-A102F6605358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D5FEB7D-9EEC-4629-ABD2-4887DC7F08E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5FEB7D-9EEC-4629-ABD2-4887DC7F08E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5FEB7D-9EEC-4629-ABD2-4887DC7F08E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5FEB7D-9EEC-4629-ABD2-4887DC7F08E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF91E658-2EF5-458B-BEEE-A102F6605358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF91E658-2EF5-458B-BEEE-A102F6605358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF91E658-2EF5-458B-BEEE-A102F6605358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF91E658-2EF5-458B-BEEE-A102F6605358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
